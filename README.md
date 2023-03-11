@@ -7,6 +7,6 @@ Para utilizar este programa hay que tener en cuenta las siguientes cosas:
     python TrabajoFinalPythonJoseJavierTejedaSanchez.py CarpetaQuery CarpetaSubject
 Si las carpetas estan en otro directorio hay que poner la ruta.
 5º Para abrir la ayuda se pone: python TrabajoFinalPythonJoseJavierTejedaSanchez.py -h
-6º Ejecutar en Linux, no vale para Apple
+6º Ejecutar en Linux, no vale para Apple.
 
 El script sirve para realizar un blasteo de las qurys en la carpeta de las querys con un conjunto de genbanks de la carpeta de genbanks, a continuacion se hace alineamiento de las quyerys con sus hits utilizando muscle y se hace un arbol filogenetico, por último se comparan los dominios de los hits con una base de datos de prosite y se ponen las coincidencias, todo esto se guardará en una carpeta llamada 'resultados_blast', en la carpeta de querys aparecerá un multifasta con todas las querys y en la de los gen bank un multifasta con los genbanks. Se creará otra carpeta llamada 'proceso' donde se guardaran los documentos usados para obtener los resultados.
