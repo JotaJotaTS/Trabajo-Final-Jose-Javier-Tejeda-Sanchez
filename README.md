@@ -1,6 +1,6 @@
 # Trabajo-Final-Jose-Javier-Tejeda-Sanchez
 Para utilizar este programa hay que tener en cuenta las siguientes cosas:
-1ª Hay que crear una carpeta para los querys(archivos fasta) y otra para los subject(archivos Genbank, el nombtre de la carpeta sin espacios
+1ª Hay que crear una carpeta para los querys(archivos fasta) y otra para los subject(archivos Genbank, el nombtre de la carpeta sin espacios)
 2º Es recomendable que las carpetas esten en el mismo directorio donde se ejecute el programa, de lo contrario habrá que poner la ruta de la carpeta
 3º El archivo de prosite debe estar obligatoriamente en el directorio donde se ejecuta el programa
 4º Para ejecutar el programa debe ponerse en el terminal el siguiente comando:
